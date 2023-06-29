@@ -5,7 +5,7 @@ table {
     border-radius: 20px;
 }
 
-input[type="button"] {
+.input {
     width: 100%;
     padding: 20px 40px;
     background-color:rgb(15, 4, 48);
@@ -39,4 +39,14 @@ input[type="text"] {
     text-align: center;
     font-size: 50px;
     
+}
+.inputvalue {
+    width: 100%;
+    padding: 20px 40px;
+    background-color:rgb(235, 11, 11);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
 }
